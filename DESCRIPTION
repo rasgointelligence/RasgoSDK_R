@@ -1,0 +1,12 @@
+Package: R_Rasgo
+Type: Package
+Title: R Rasgo SDK
+Version: 0.1
+Date: 2022-01-01
+Authors@R: person("Patrick", "Dougherty", email = "patrick@rasgoml.com",
+  role = c("aut", "cre"))
+Description: R SDK to easily interact with Rasgo APIs
+Imports:
+    httr
+    odbc
+License: AGPL
